@@ -1,39 +1,39 @@
 # Hi, I'm Pradhyumna K N 👋 
 
 ### 🚀 AI & ML Engineer | Full-Stack Developer | Edge AI Enthusiast
-Currently balancing a dual-academic journey:
+Currently pursuing a dual-degree path:
 * **B.E. in AI & ML** @ ATME College of Engineering, Mysore
 * **B.Sc. in Data Science & AI** @ IIT Guwahati
 
-I specialize in bridging the gap between theoretical engineering and real-world deployment—a philosophy I call **"Prompt to Project."**
+I specialize in **"Prompt to Project"**—leveraging agentic workflows to move from high-level concepts to functional, deployed systems at lightning speed.
 
 ---
 
-### 🛠️ What I'm working on
+### 🛠️ What I'm Building
 - 🛡️ **Defense Tech:** Developing Drone Detection models and collaborating on aerospace AI projects.
-- 🤖 **Edge AI:** Building localized intelligence that doesn't rely on the cloud, focusing on privacy and speed.
-- 🏗️ **Startup Ecosystem:** Founding a tech holding company focused on cybersecurity and AI-driven automation.
-- 🎓 **VTU Samshodhana:** Solving real-world industrial challenges for MSMEs through the VRIF program.
+- 🤖 **Edge AI:** Building localized intelligence to prioritize data privacy and ultra-low latency.
+- 🏗️ **Startup Ecosystem:** Founder of a tech holding company focused on AI-driven automation.
+- 🎓 **VTU Samshodhana:** Selected for the VRIF program to solve real-world industrial challenges.
+
+---
+
+### 🏆 Recognitions
+- **Winner:** IEEE Mini Project Expo 
+- **Selected Scholar:** VTU VRIF Samshodhana Initiative
+- **AI Volunteer Trainee:** Leoaxis (Practical implementation of AI in engineering)
 
 ---
 
 ### 🧰 Tech Stack
 * **Languages:** Python, JavaScript, Java, C, R, Verilog
-* **AI/ML:** TensorFlow, PyTorch, OpenCV, Mediapipe, Prompt Engineering
-* **Web:** Node.js, React, Full-Stack Development
-* **Tools:** WSL, Linux, Git, Docker
+* **AI/ML:** TensorFlow, OpenCV, Mediapipe, Prompt Engineering, Agentic Workflows
+* **Web:** React, Node.js, AI-Assisted Rapid Prototyping
+* **Environment:** Linux (WSL), Git, Docker
 
 ---
 
-### 📊 Stats & Impact
-- **AI Volunteer Trainee** at Leoaxis
-- **Hackathon Veteran:** BGSIT & AI Bharath Participant
-- **Methodology:** Specialized in **Agentic Workflows** and **"Vibe Coding"** to move from idea to MVP at lightning speed.
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio/Startup:** [Your Website Link if applicable]
+### 🔗 Let's Connect
+- **Portfolio:** (https://pradhyumnakn-portfolio.lovable.app/)
+- **LinkedIn:** (https://www.linkedin.com/in/pradhyumna-k-n)
 
 *"The best way to predict the future is to build it—one prompt at a time."*
